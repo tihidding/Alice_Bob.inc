@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-zoete appels
+zoute appels
 kiwis
 winterpeen15 hahahah
 banaan <-_->
-=======
-zoete appels
-kiwis
-winterpeen15 hahahah
-banaan <-_->
->>>>>>> github/master
